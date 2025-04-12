@@ -4,15 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "pnpm -C ./play dev"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@pumu-ww/components": "workspace:*",
-    "@pumu-ww/docs": "workspace:*",
-    "@pumu-ww/play": "workspace:*",
     "@pumu-ww/theme-chalk": "workspace:*",
     "@pumu-ww/utils": "workspace:*",
     "vue": "3.5.13"
