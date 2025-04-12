@@ -14,7 +14,8 @@
     "@pumu-ww/components": "workspace:*",
     "@pumu-ww/theme-chalk": "workspace:*",
     "@pumu-ww/utils": "workspace:*",
-    "vue": "3.5.13"
+    "vue": "3.5.13",
+    "element-plus": "2.9.7"
   },
   "devDependencies": {
     "rollup": "4.40.0",

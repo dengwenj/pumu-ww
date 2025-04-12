@@ -7,7 +7,8 @@
     "lib": [
       "DOM",
       "ESNext"
-    ]
+    ],
+    "noImplicitAny": true
   },
   "include": ["./packages/*"],
   "exclude": ["node_modules", "**/__tests__", "dist/**"]

@@ -1,5 +1,5 @@
-const name = "朴睦"
+import Icon from './icon'
 
 export {
-  name
+  Icon
 }

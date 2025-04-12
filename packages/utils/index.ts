@@ -1,5 +1,7 @@
-const name = 'utils'
+import { createNamespace } from "./createBEM"
+import { withInstall } from './withInstall'
 
 export {
-  name
+  createNamespace,
+  withInstall
 }
