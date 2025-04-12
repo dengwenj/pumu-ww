@@ -1,0 +1,24 @@
+{
+  "name": "pumu-ww",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pumu-ww/components": "workspace:*",
+    "@pumu-ww/docs": "workspace:*",
+    "@pumu-ww/play": "workspace:*",
+    "@pumu-ww/theme-chalk": "workspace:*",
+    "@pumu-ww/utils": "workspace:*",
+    "vue": "3.5.13"
+  },
+  "devDependencies": {
+    "rollup": "4.40.0",
+    "typescript": "5.8.3"
+  }
+}

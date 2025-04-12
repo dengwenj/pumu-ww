@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "jsx": "preserve", // jsx 不转
+    "sourceMap": true,
+    "lib": [
+      "DOM",
+      "ESNext"
+    ]
+  },
+  "include": ["./packages/*"],
+  "exclude": ["node_modules", "**/__tests__", "dist/**"]
+}
