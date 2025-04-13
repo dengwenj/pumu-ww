@@ -21,12 +21,6 @@ const style = computed(() => {
 })
 </script>
 
-<!-- <script lang="ts">
-export default {
-  name: 'p-icon'
-}
-</script> -->
-
 <template>
   <i :class="name.b()" :style="style">
     <slot></slot>
