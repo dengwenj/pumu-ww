@@ -31,8 +31,8 @@ importers:
         specifier: 5.8.3
         version: 5.8.3
       vite-plugin-auto-name:
-        specifier: 1.0.0
-        version: 1.0.0
+        specifier: 1.0.2
+        version: 1.0.2
 
   docs: {}
 
@@ -836,8 +836,8 @@ packages:
     peerDependencies:
       browserslist: '>= 4.21.0'
 
-  vite-plugin-auto-name@1.0.0:
-    resolution: {integrity: sha512-qvxa+4pfWQb0tMxmb6qQslK+/oODIOTojIDmPU//TgUR4Vi9weX2rxN9unM9ITxNdaogYt0CqTgsRGDrEWLojg==}
+  vite-plugin-auto-name@1.0.2:
+    resolution: {integrity: sha512-LF7NAJG7WERnmYG702rsbbMmFYWDtNOrR0QEjIkB3qRwCSpuU+2M26DwQRXunZmhEgliM4jObkTylYliFp+rfw==}
 
   vite@6.2.6:
     resolution: {integrity: sha512-9xpjNl3kR4rVDZgPNdTL0/c6ao4km69a/2ihNQbcANz8RuCOK3hQBmLSJf3bRKVQjVMda+YvizNE8AwvogcPbw==, tarball: https://registry.npmmirror.com/vite/-/vite-6.2.6.tgz}
@@ -1666,7 +1666,7 @@ snapshots:
       escalade: 3.2.0
       picocolors: 1.1.1
 
-  vite-plugin-auto-name@1.0.0: {}
+  vite-plugin-auto-name@1.0.2: {}
 
   vite@6.2.6(@types/node@22.14.1):
     dependencies:

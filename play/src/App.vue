@@ -4,5 +4,5 @@
 
 <template>
   vue3 app
-  <p-icon :color="'red'" :size="18">icon</p-icon>
+  <p-icon color="red" :size="20">icon</p-icon>
 </template>
